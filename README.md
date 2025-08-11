@@ -45,7 +45,7 @@ I also performed a little preprocessing that included;
 - Saving the new dataset to be used for prediction
 
 # Model Building:
-For this project, I using an LSTM neural network model for the task of delivery time prediction.
+For this project, I am using an LSTM neural network model for the task of delivery time prediction.
 
 # Deployment:
 The model was deployed on Google Colab IDE using the Flask framework and HTML for the user interface.
